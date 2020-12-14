@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.langForm {
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+}
+.dash {
+	position: absolute;
+	right: 300px;
+	top: 15px;
+}
+.delete {
+	position: absolute;
+	right: 470px;
+	top: 15px;
+}
+input {
+	font-size: 25px;
+	margin-left: 60px;
+}
+textarea {
+	font-size: 25px;
+	margin-left: 161px;
+	width: 300px;
+}
+.submit {
+	position: relative;
+	left:410px;
+}
+.name {
+	margin-left:180px;
+	width: 300px;
+}
+.version {
+	width: 300px;
+}
